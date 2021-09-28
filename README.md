@@ -30,19 +30,17 @@
 
 - Codeigniter 4
 - JavaScript
-- Node
-- NPM
 - HTML
 - CSS
 
 ## Features
 
-- [ ] Accounts API
-- [ ] Clearing & Forwarding(C&F) API
-- [ ] Client API
-- [ ] Shipping Lines API
-- [ ] Transporter API
-- [ ] Reports API
+- [x] Accounts API
+- [x] Clearing & Forwarding(C&F) API
+- [x] Client API
+- [x] Shipping Lines API
+- [x] Transporter API
+- [x] Reports API
 
 ## Future Updates
 
